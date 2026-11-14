@@ -8,11 +8,11 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dpashine10)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uselesshumanbeing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divy@dpashine.tech)
 [![Website](https://img.shields.io/badge/Website-00A8FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dpashine.tech)
 
-<img src="https://komarev.com/ghpvc/?username=dpashine10&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=uselesshumanbeing&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
 </div>
 
@@ -216,9 +216,9 @@ I like understanding what happens **under the hood** rather than treating deploy
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dpashine10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=uselesshumanbeing&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpashine10&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uselesshumanbeing&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -226,7 +226,7 @@ I like understanding what happens **under the hood** rather than treating deploy
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dpashine10&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=uselesshumanbeing&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
